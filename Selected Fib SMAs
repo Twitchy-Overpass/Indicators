@@ -11,7 +11,7 @@
 // Conbinations done below that and plotting done at the end.
 // So simple even whis couldn't mess it up.
 
-study(title="Single Timeframe Moving Averages", shorttitle="Suck my ass", overlay=true)
+study(title="Single Timeframe Moving Averages", shorttitle="Suck My Ass", overlay=true)
 
 M89_SMA_1 = input(55, minval=1, title="M89_SMA_1")
 M144_SMA_1 = input(21, minval=1, title="M144_SMA_1")
