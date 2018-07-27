@@ -11,7 +11,7 @@
 // Conbinations done below that and plotting done at the end.
 // So simple even whis couldn't mess it up.
 
-study(title="Single Timeframe Moving Averages", shorttitle="Watch my ass", overlay=true)
+study(title="Single Timeframe Moving Averages", shorttitle="Watch My Ass", overlay=true)
 
 
 M377_WMA_3 = input(987, minval=1, title="M377_WMA_3")
