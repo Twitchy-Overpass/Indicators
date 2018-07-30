@@ -37,7 +37,6 @@ senkouB = conversion(_lag, _t)
 sA = plot(senkouA(_t), color=green, offset=_offsetAdj, title="Leading Span A", linewidth=1)
 sB = plot(senkouB, color=red, offset=_offsetAdj, title="Leading Span B", linewidth=2)
 fill(sA, sB, color = senkouA(_t) > senkouB ? bullcloud : bearcloud, transp=20, title="Leading Fill Color")
-fill(p1, p2, color = senkouA > senkouB ? bullcloud : bearcloud, transp=80, title="Senkou fill", editable=false)
 
 plot(conversion(_con, _t), color=black, linewidth=2, title="Conversion Line")
 plot(conversion(_turn, _t), color=black, linewidth=2, title="Base Line")
