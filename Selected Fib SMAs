@@ -1,7 +1,6 @@
 // BTC: 3BMEXf83hTNFcPdqmMCYw8dJjMN4bpFP2E
 // ETH: 0xAfa0C533DDD9A80DFAD7dCD14b19977530c810b3
 //
-// I forgot which unlucky fucker I stole this from but it wasn't yield. (Pls no basement). 
 //
 // Really simple stuff
 // input(XX = period length (don't forget to change the title as needed)
@@ -9,7 +8,6 @@
 // weekly respectively.
 // 
 // Conbinations done below that and plotting done at the end.
-// So simple even whis couldn't mess it up.
 
 study(title="Single Timeframe Moving Averages", shorttitle="Suck My Ass", overlay=true)
 
