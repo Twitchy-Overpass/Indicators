@@ -10,7 +10,7 @@
 //Interval: The interval to use for the indicator. 
 //
 //If you want multiple clouds then you'll want to simply add multiple versions of the below code to your chart.
-//They use the non-japanese names. If you want to find out the japanese ones you can google it you lazy fuck.
+//They use the non-japanese names. If you want to find out the japanese ones you can google it.
 
 study("Ichimoku Cloud Time fixed", shorttitle="Ichiception", overlay=true)
 
