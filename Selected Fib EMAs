@@ -9,7 +9,6 @@
 // weekly respectively.
 // 
 // Conbinations done below that and plotting done at the end.
-// So simple even whis couldn't mess it up.
 
 study(title="Single Timeframe Moving Averages", shorttitle="Eat My Ass", overlay=true)
 
